@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1623697841 source:c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\leaderboard.cpp
+	"leaderBoard.h"
+	<fstream>
+	<iostream>
+	<vector>
+	"playGame.h"
+
+1622669636 c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\leaderboard.h
+
+1623602883 source:c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\main.cpp
+	<iostream>
+	<windows.h>
+	"playGame.h"
+
+1622668552 c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\playgame.h
+
+1623590001 source:c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\playgame.cpp
+	"playGame.h"
+	<iostream>
+	"level1.h"
+	<fstream>
+	"playerdetails.h"
+	"leaderBoard.h"
+
+1623373382 c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\level1.h
+
+1623697045 source:c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\level1.cpp
+	"level1.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<fstream>
+	"level2.h"
+	"playerdetails.h"
+	"playGame.h"
+
+1623696803 source:c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\level2.cpp
+	"level2.h"
+	"level3.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<fstream>
+	"playerdetails.h"
+
+1623102184 c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\level2.h
+
+1623697045 source:c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\level3.cpp
+	"level3.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<fstream>
+	"playerdetails.h"
+	"playGame.h"
+
+1623275454 c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\level3.h
+
+1623410813 c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\playerdetails.h
+
+1623696888 source:c:\users\mecer- i5 7th gen\desktop\comp315\c++\gameofthronestrivia\gottrivia\playerdetails.cpp
+	"playerdetails.h"
+
